@@ -12,6 +12,7 @@ body{
 .btn-conatiner{
      display: flex;
      justify-content: center;
+    cursor: pointer;
 }
 .yellow{
     background-color: #f99b45;
