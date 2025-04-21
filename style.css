@@ -12,19 +12,22 @@ body{
 .btn-conatiner{
      display: flex;
      justify-content: center;
-    cursor: pointer;
 }
 .yellow{
     background-color: #f99b45;
+    cursor: pointer;
 }
 .red{
     background-color: #d95980;
+    cursor: pointer;
 }
 .green{
     background-color: #63aac0;
+    cursor: pointer;
 }
 .purple{
     background-color: #819ff9 ;
+    cursor: pointer;
 }
 .flash{
     background-color: white;
